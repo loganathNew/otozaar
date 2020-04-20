@@ -1,0 +1,2 @@
+# otozaar
+otozaar intial setuop
